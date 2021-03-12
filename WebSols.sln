@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebSols", "WebSols\WebSols.vbproj", "{AB0033DE-718D-4E44-B93F-659E448794A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0033DE-718D-4E44-B93F-659E448794A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0033DE-718D-4E44-B93F-659E448794A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0033DE-718D-4E44-B93F-659E448794A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0033DE-718D-4E44-B93F-659E448794A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E55C139-44E0-4F79-A2DF-595F68DEC1D6}
+	EndGlobalSection
+EndGlobal
