@@ -37,17 +37,17 @@ End Code
     </div>
 </section>
 <!-- Peliculas-->
-<section class="page-section bg-light" id="portfolio">
+<section class="page-section" id="portfolio" style="  background-color: #0f4c75;">
     <div class="container">
         <div class="text-center">
-            <h2 class="section-heading text-uppercase">Contenido Visual</h2>
-            <h3 class="section-subheading text-muted">Películas, series, vídeos musicales y más.</h3>
+            <h2 class="section-heading text-uppercase" style="color:#bbe1fa;">Contenido Visual</h2>
+            <h3 class="section-subheading" style="color:#fff;">Películas, series, vídeos musicales y más.</h3>
         </div>
         <div class="row">
             <div class="col-lg-4 col-sm-6 mb-4">
                 <div class="portfolio-item">
                     <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
-                        <div class="portfolio-hover">
+                        <div class="portfolio-hover" style="background-color: #3282b8;">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
                         <img class="img-fluid" src="@Url.Content("~/Content/assets/img/portfolio/spiderverse-sm.jpg")" alt="" />
@@ -61,7 +61,7 @@ End Code
             <div class="col-lg-4 col-sm-6 mb-4">
                 <div class="portfolio-item">
                     <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
-                        <div class="portfolio-hover">
+                        <div class="portfolio-hover" style="background-color: #3282b8;">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
                         <img class="img-fluid" src="@Url.Content("~/Content/assets/img/portfolio/friends-sm.jpg")" alt="" />
@@ -75,7 +75,7 @@ End Code
             <div class="col-lg-4 col-sm-6 mb-4">
                 <div class="portfolio-item">
                     <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
-                        <div class="portfolio-hover">
+                        <div class="portfolio-hover" style="background-color: #3282b8;">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
                         <img class="img-fluid" src="@Url.Content("~/Content/assets/img/portfolio/breakts-sm.jpg")" alt="" />
@@ -89,7 +89,7 @@ End Code
             <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
                 <div class="portfolio-item">
                     <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
-                        <div class="portfolio-hover">
+                        <div class="portfolio-hover" style="background-color: #3282b8;">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
                         <img class="img-fluid" src="@Url.Content("~/Content/assets/img/portfolio/modernfamily-sm.jpg")" alt="" />
@@ -103,7 +103,7 @@ End Code
             <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
                 <div class="portfolio-item">
                     <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
-                        <div class="portfolio-hover">
+                        <div class="portfolio-hover" style="background-color: #3282b8;">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
                         <img class="img-fluid" src="@Url.Content("~/Content/assets/img/portfolio/500dias-sm.jpg")" alt="" />
@@ -117,7 +117,7 @@ End Code
             <div class="col-lg-4 col-sm-6">
                 <div class="portfolio-item">
                     <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-                        <div class="portfolio-hover">
+                        <div class="portfolio-hover" style="background-color: #3282b8;">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
                         <img class="img-fluid" src="@Url.Content("~/Content/assets/img/portfolio/euforia-sm.jpg")" alt="" />
@@ -203,11 +203,11 @@ End Code
     </div>
 </section>
 <!-- Catálogo-->
-<section class="page-section bg-light" id="team" align="center">
+<section class="page-section" id="team" align="center" style=" background-color: #0f4c75;">
     <div class="container">
         <div class="text-center">
-            <h2 class="section-heading text-uppercase">Nuestros Catálogos</h2>
-            <h3 class="section-subheading text-muted">Nuestros catálogos completos</h3>
+            <h2 class="section-heading text-uppercase" style="color:#bbe1fa;">Nuestros Catálogos</h2>
+            <h3 class="section-subheading" style="color:#fff;">Nuestros catálogos completos</h3>
         </div>
         <div class="row" align="center">
             <div class="col-lg-4">

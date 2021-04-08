@@ -1,4 +1,4 @@
-﻿<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+﻿<nav class="navbar navbar-expand-lg fixed-top" id="mainNav">
     <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="@Url.Content("~/Content/assets/img/logo.png")" alt="" /></a>
         <Button Class="navbar-toggler navbar-toggler-right" style=" background-color: #0f4c75;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
